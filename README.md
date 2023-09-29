@@ -27,11 +27,11 @@ into the root directory and install the server dependencies:
    npm install
 
 3. Start the server:
-   cd backend
+   cd backend-
    npm run dev
 
 4. Open another terminal window, change into the frontend directory, and install the client dependencies:
-   cd frontend
+   cd frontend -
    npm install
 
 5.Start the frontend:
